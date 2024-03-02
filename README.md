@@ -14,7 +14,7 @@ This application is designed to bridge this gap by leveraging the power of Googl
 
 ### Example Use
 
-Image of application usage: [https://github.com/Yega-Noragami/Langchain-Gemini-QA/Gemini-action.png](https://github.com/Yega-Noragami/Langchain-Gemini-QA/Gemini-action.png)
+Image of application usage: [https://github.com/Yega-Noragami/Langchain-Gemini-QA/blob/main/Gemini-action.png](https://github.com/Yega-Noragami/Langchain-Gemini-QA/blob/main/Gemini-action.png)
 
 ### How to Run
 
