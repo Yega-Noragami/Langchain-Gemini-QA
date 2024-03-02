@@ -13,8 +13,8 @@ This application is designed to bridge this gap by leveraging the power of Googl
 * Get context-aware responses from a powerful language model.
 
 ### Example Use
+![alt text](https://github.com/Yega-Noragami/Langchain-Gemini-QA/blob/main/Gemini-action.png?raw=true)
 
-Image of application usage: [https://github.com/Yega-Noragami/Langchain-Gemini-QA/blob/main/Gemini-action.png](https://github.com/Yega-Noragami/Langchain-Gemini-QA/blob/main/Gemini-action.png)
 
 ### How to Run
 
